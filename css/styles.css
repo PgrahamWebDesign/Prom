@@ -58,17 +58,11 @@ h1, h2, h3, h4, h5, h6 {
   padding: 4.5%;
 }
 
-
-
-/* Form */
-.form {
-	position: absolute;
-	margin-bottom: 15rem;
-	padding-left: 50rem;
-}
-.forms {
-	position: absolute;
-	margin-bottom: 15rem;
-	padding-top: 35rem;
-	padding-left: 40rem;
+.download-button {
+	 margin: 5% 3% 5% 0;
+	padding-bottom: 1.5rem;
+	padding-top: 1.5rem;
+	margin: auto;
+	margin-bottom: 75px;
+	margin-bottom: 75px;
 }
